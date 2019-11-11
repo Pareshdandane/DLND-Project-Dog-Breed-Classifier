@@ -1,4 +1,4 @@
-# flower-classifier-pytorch
+# Dog-Breed-Classifier-pytorch
 Classifying 133 different dog breed from images with CNN (using pytorch)
 
 ## Project Overview
@@ -18,18 +18,10 @@ images with an accuracy of about 83% from the test dataset.
 
 
 ## Usage
-**_Image Classifier Project.ipynb_**    
+**dog_app_solution.ipynb_**    
 
 Jupyter notebook which shows the entire process from data loading 
 to exploration, training, testing and validation.
 
-
-**_train.py_**                          
-
-trains the model to classify dog breed. Takes in hyperparameters as well as base model,
-
-
-**_predict.py_**                        
-
-predicts input image(s) of the top k (user input) likely flower species with corresponding 
-probabilities. Takes in user input of path of trained model and path of test image to be predicted.
+Also content small snippet of code where you can enter your image 
+of dog to identify breed
