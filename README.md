@@ -1,12 +1,12 @@
 # flower-classifier-pytorch
-Classifying 102 different flower species from images with CNN (using pytorch)
+Classifying 133 different dog breed from images with CNN (using pytorch)
 
 ## Project Overview
-This project is the assignment from the [Udacity Deep learning nanodgree](https://www.udacity.com/course/deep-learning-nanodegree--nd101). 
-The project focuses on training a convolutional neural network to classify 102 different dog breed
-species from a set of 6000 images ([dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)). Because of the small dataset, I have utilized pre-trained models 
-such as VGG19 and ResNet152 and did transfer learning on top of these models to classify the dog
-images with an accuracy of about 93% from the test dataset.
+This project is the assignment from the [Udacity Deep Learning Nanodgree](https://www.udacity.com/course/deep-learning-nanodegree--nd101). 
+The project focuses on training a convolutional neural network to classify 133 different dog breed
+species from a set of 6000 images ([dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)). Because of the small dataset, I have utilized pre-trained models 
+such as VGG19 and VGG16 and did transfer learning on top of these models to classify the dog
+images with an accuracy of about 83% from the test dataset.
 
 ## Prerequisite
 
