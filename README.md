@@ -18,7 +18,7 @@ images with an accuracy of about 83% from the test dataset.
 
 
 ## Usage
-**dog_app_solution.ipynb_**    
+**_dog_app_solution.ipynb_**    
 
 Jupyter notebook which shows the entire process from data loading 
 to exploration, training, testing and validation.
